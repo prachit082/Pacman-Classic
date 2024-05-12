@@ -4,9 +4,9 @@
 	\____ \__  \ _/ ___\ /     \\__  \  /    \ 
 	|  |_> > __ \\  \___|  Y Y  \/ __ \|   |  \
 	|   __(____  /\___  >__|_|  (____  /___|  /
-	|__|       \/     \/      \/     \/     \/ .itsprachit.vercel.app
+	|__|       \/     \/      \/     \/     \/ .prachit.pages.dev
 	
-	author: prachit   (itsprachit.vercel.app)
+	author: prachit   (prachit.pages.dev)
 	
 -------------------------------------------------------------------*/
 

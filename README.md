@@ -1,4 +1,4 @@
-## Pacman-Canvas
+## Classic-Pacman
 
 An old classic, re-written in HTML5.
 
