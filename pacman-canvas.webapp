@@ -1,0 +1,14 @@
+﻿{
+  "name": "Pacman Canvas",
+  "description": "An old classic, rewritten in HTML5",
+  "launch_path": "/",
+  "version": "1.0.6",
+  "developer": {
+    "name": "prachit",
+    "url": "https://itsprachit.vercel.app/"
+  },
+  "icons": {
+	"128": "/img/icon-128.png"
+	},
+  "default_locale": "en"
+}
