@@ -16,9 +16,9 @@
   "author": "platzh1rsch",
   "license": "CC0 1.0 Universal",
   "bugs": {
-    "url": "https://github.com/platzhersh/pacman-canvas/issues"
+    "url": "https://github.com/prachit082/Pacman-Classic/issues"
   },
-  "homepage": "https://github.com/platzhersh/pacman-canvas#readme",
+  "homepage": "https://github.com/prachit082/Pacman-Classic#readme",
   "dependencies": {
     "express": "^4.18.1",
     "webpack": "^5.91.0"
